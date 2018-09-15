@@ -1,0 +1,4 @@
+本地电脑先安VWware workstation 再安装的CentOS，安装的SecureCRT软件连接cetos。
+通过secureCRT连接上之后，安装redis
+安装redis有2个方案，1.用 wget 在线下载redis，再解压，更改redis.conf 文件的守护线程为yes
+                   2.通过FZ上传文件的centos系统，再解压，更改文件，安装
